@@ -1,0 +1,9 @@
+Dear Simon,
+
+I am capable of executing the attack that you have asked for. The company's vulnerabilities are as follows:
+they are not anticipating an attack, they are not prepared for a threat, and they do not have a whitelist or blackilst.
+
+The best time to attack would be now.
+ 
+Let me know the next steps,
+David
